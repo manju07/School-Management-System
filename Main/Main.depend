@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1510822024 source:c:\users\m\desktop\s\main\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"methods.h"
+
+1510822363 c:\users\m\desktop\s\main\methods.h
+	<iostream>
+	<fstream>
+	<iostream>
+	<sstream>
+	<string>
+	<iterator>
+	<vector>
+	<iomanip>
+
